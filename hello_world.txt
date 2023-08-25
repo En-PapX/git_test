@@ -1,1 +1,2 @@
-The horse doesn't eat raddish
+The horse doesn't eat raddish.
+Unless it does.
